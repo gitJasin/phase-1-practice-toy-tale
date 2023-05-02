@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 24
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 12
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "id": 5,
       "name": "Rex",
       "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
-      "likes": 1
+      "likes": 5
     },
     {
       "id": 6,
@@ -40,18 +40,18 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 5
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 1
+      "likes": 2
     },
     {
-      "name": "jason",
-      "image": "https://wallpaperaccess.com/full/196941.jpg",
-      "Likes": 0,
+      "name": "Jason",
+      "image": "https://img.freepik.com/free-vector/cute-cat-driving-spaceship-ufo-cartoon-icon-illustration-animal-technology-icon-concept-isolated-flat-cartoon-style_138676-2334.jpg?w=740&t=st=1683046097~exp=1683046697~hmac=69123e7b2a21fd23c6b6b8d5df736a69f5da9168f6405bd02eb6999acf14d245",
+      "likes": 3,
       "id": 9
     }
   ]
